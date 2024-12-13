@@ -54,9 +54,8 @@ Once the job completes, your application will be available at `http://localhost:
 
 3 directories, 8 files
 
- <img src= "Screenshot 2024-12-13 112102.png" />
-
 ```
+ <img src= "Screenshot 2024-12-13 112102.png" />
 
 ## Project features 
 - `Create Account`
