@@ -59,9 +59,10 @@ Once the job completes, your application will be available at `http://localhost:
 
 ## Project features 
 - `Create Account`
+- <img src= "Screenshot 2024-12-13 112443.png" />
 - `Get Balance`
  
-    <img src= "Screenshot 2024-12-13 112443.png" />
+    
     
   
 - `send token`
