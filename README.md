@@ -60,14 +60,14 @@ Once the job completes, your application will be available at `http://localhost:
 ## Project features 
 - `Create Account`
 - `Get Balance`
-- 
+ 
     <img src= "Screenshot 2024-12-13 112443.png" />
     
   
 - `send token`
 - `receive token`
 
-- <img src= "Screenshot 2024-12-13 112451.png" />
+ <img src= "Screenshot 2024-12-13 112451.png" />
 
 
 - set`DFX_NETWORK` to `ic` if you are using Webpack
@@ -78,4 +78,4 @@ Once the job completes, your application will be available at `http://localhost:
 
 - Output Log
 
-- <img src= "Screenshot 2024-12-13 112505.png" />
+ <img src= "Screenshot 2024-12-13 112505.png" />
